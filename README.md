@@ -1,7 +1,9 @@
 # CrowdGO - A WEB3 Platform for Crowd Funding
 
 ## Introduction
+![alt text][logo]
 
+[logo]: https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ0M2I2YjM3M2M2M2Q3MjcxY2UxZmUwMzNjNmQ4NzYyNzhiOWFjNyZjdD1n/CBtGOhl19gvd5Z4jKD/giphy.gif "Logo Title Text 2"
 
 Welcome to our web3 crowdfunding website! We are proud to offer a new and innovative way for people to raise funds for their projects, ideas, and causes through the power of blockchain technology. Our platform is built using the thirdweb framework, a cutting-edge solution for developing decentralized applications on the web3 ecosystem.
 
@@ -11,6 +13,7 @@ Whether you are an entrepreneur, artist, activist, or any other individual looki
 
 ## Problem Statement
 
+![alt text](https://media4.giphy.com/media/5c8IyH32kM5IjkBhcf/giphy.gif?cid=ecf05e47q7j311mnljl409t08zrkbdowf0745fxa4pczrvor&rid=giphy.gif&ct=g "Logo Title Text 1")
 
 The problem we aim to address with our web3 crowdfunding website is the lack of trust and transparency in traditional crowdfunding platforms. These platforms often suffer from issues such as high fees, delayed payments, and centralized control, which can discourage both donors and fundraisers from participating.
 
@@ -52,6 +55,7 @@ By leveraging the power of blockchain technology and the thirdweb framework, our
 
 
 ## Results
+![alt text](https://media0.giphy.com/media/5Qbi5JEiCWyTYYtpd4/giphy.gif?cid=ecf05e47lnakg4bafnu983rr7q1o9m5jmr7lwr38xfvphg15&rid=giphy.gif&ct=g "Logo Title Text 1")
 
 The results of the project were successful in achieving the objectives set out in the project description. The web-based platform that uses smart contracts for executing agreements provides transparency and autonomy, enabling users to create and donate to campaigns for various causes. Here are some of the results of the project:
 
